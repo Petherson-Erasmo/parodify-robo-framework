@@ -1,0 +1,10 @@
+{"level":30,"time":"2021-02-13T01:04:44.813Z","pid":1324,"hostname":"DESKTOP-KGHGTHA","msg":"Listening on 50873"}
+{"level":30,"time":"2021-02-13T01:04:45.323Z","pid":1324,"hostname":"DESKTOP-KGHGTHA","msg":"Changed active context"}
+{"level":30,"time":"2021-02-13T01:04:45.465Z","pid":1324,"hostname":"DESKTOP-KGHGTHA","msg":"Video path: undefined"}
+{"level":30,"time":"2021-02-13T01:04:45.465Z","pid":1324,"hostname":"DESKTOP-KGHGTHA","msg":"Changed active page"}
+{"level":30,"time":"2021-02-13T01:04:49.535Z","pid":1324,"hostname":"DESKTOP-KGHGTHA","msg":"Changed active context"}
+{"level":30,"time":"2021-02-13T01:04:49.535Z","pid":1324,"hostname":"DESKTOP-KGHGTHA","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-13T01:04:49.535Z","pid":1324,"hostname":"DESKTOP-KGHGTHA","msg":"Changed active page"}
+{"level":30,"time":"2021-02-13T01:04:49.557Z","pid":1324,"hostname":"DESKTOP-KGHGTHA","msg":"Changed active context"}
+{"level":30,"time":"2021-02-13T01:04:49.557Z","pid":1324,"hostname":"DESKTOP-KGHGTHA","msg":"Changing current active page"}
+{"level":30,"time":"2021-02-13T01:04:49.557Z","pid":1324,"hostname":"DESKTOP-KGHGTHA","msg":"Changed active page"}
