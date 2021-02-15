@@ -1,20 +1,17 @@
 ***Settings***
 Documentation   Testes da página login
 
-Library         Browser
-
-Resource        resources/login_actions.robot
+Resource        ../resources/base.robot
 
 # Gancho para tirar screnshot após a execução de cada teste
 Test Teardown   Take Screenshot
 
 ***Test Cases***
 Login com sucesso
+    [Tags]      happy
     Open Login Page
-
     Login With      petherson_teste@gmail.com   pet123
-
-    Wait For Elements State     css=a[href$='/sign_out']    visible     10
+    Logout Link Should Be Visible
 
 Senha incorreta
     Open Login Page
